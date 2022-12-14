@@ -9,6 +9,8 @@ public class Student
 	{
 		
 		System.out.println("welcome to all of you in automation");
+		
+		System.out.println("Changes done");
 	
 	}
 	
